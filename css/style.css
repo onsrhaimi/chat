@@ -1,0 +1,76 @@
+body{
+	margin: auto;
+	background-color: #eee;
+}
+
+#connect-div{
+	width: 250px;
+	margin: auto;
+	margin-top: 200px;
+	padding: 15px;
+	border-radius: 5%;
+	background-color: rgb(159,159,159);
+}
+
+#content{
+	width: 732px;
+	height: 532px;
+	margin: auto;
+	margin-top: 80px;
+	box-shadow: 0px 10px 20px 1px black;
+}
+
+#header{
+	font-size: 22px;
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
+
+.panel-body{
+	padding-bottom: 0px;
+}
+
+#hist{
+	width:500px;
+	height: 400px;
+	overflow: auto;
+	word-wrap:break-word;
+}
+
+.msg{
+	padding: 10px;
+	margin: 10px;
+}
+
+.pseudo{
+
+}
+
+.content{
+	background-color: #000000;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: rgba(255,255,255,0.5) 0px 3px 3px;
+}
+
+.time{
+	font-size: 10px;
+	background-color: #666666;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: rgba(255,255,255,0.5) 0px 3px 3px;
+}
+
+#msg-input2{
+	width:500px;
+	margin-top: 10px;
+}
+
+#chatters{
+	width: 180px;
+	height: 400px;
+	float:right;
+}
